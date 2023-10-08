@@ -4,7 +4,7 @@ This is a simple login form template written in HTML, designed for user authenti
 
 ## Preview
 
-![Login Form Preview](img/screenshot.png)
+![Login Form Preview](img/form.jpg)
 
 ## Usage
 
@@ -28,5 +28,5 @@ To use this login form template, follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to use and modify this template for your own projects. If you have any questions or need further assistance, please don't hesitate to [contact us](mailto:youremail@example.com).
+Feel free to use and modify this template for your own projects. If you have any questions or need further assistance, please don't hesitate to [contact us](mailto:studioarjun@gmail.com).
 
