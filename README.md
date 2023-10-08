@@ -4,7 +4,7 @@ This is a simple login form template written in HTML, designed for user authenti
 
 ## Preview
 
-![Login Form Preview](img/form.jpg)
+<img src='./img/form.jph' width = '300px'/>
 
 ## Usage
 
